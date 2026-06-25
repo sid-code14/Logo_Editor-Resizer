@@ -175,20 +175,6 @@ The `smart_fit` algorithm is the core innovation. It:
 
 This approach gives you the best of both **fit** (no cropping) and **cover** (no padding) – automatically choosing the optimal balance for each image and target size.
 
----
-
-## 🛠️ Additional Tools
-
-### `Folder_Name_Generator.py`
-
-A small utility that creates a folder for each file in a given directory. Useful for organising images before batch processing.
-
-```bash
-python Folder_Name_Generator.py
-# Enter folder path when prompted
-```
-
----
 
 ## 📁 Project Structure
 
