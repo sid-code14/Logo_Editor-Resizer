@@ -36,8 +36,8 @@ The project provides two interfaces:
 ### 1. Clone the repository (or download the files)
 
 ```bash
-git clone https://github.com/yourusername/image-resizer-smartfit.git
-cd image-resizer-smartfit
+git clone https://github.com/sid-code14/Logo_Editor-Resizer.git
+cd Logo_Editor-Resizer
 ```
 
 ### 2. Install Python dependencies
